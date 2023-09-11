@@ -1,0 +1,3 @@
+rootProject.name = 'url-shortner'
+include 'urlshortner-client'
+
